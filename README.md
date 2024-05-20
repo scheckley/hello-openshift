@@ -1,6 +1,7 @@
 # hello-openshift
 
-A simple hello-world type service to test OpenShift.
+A simple hello-world type service to test OpenShift based on the [docs](https://access.redhat.com/documentation/en-us/red_hat_container_development_kit/2.1/html/getting_started_guide/deploying_an_application_on_openshift#deploying_a_hello_world_application_using_node_js):
+
 
 ## Deployment:
 
